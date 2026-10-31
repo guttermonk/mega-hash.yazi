@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Editor/IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Lua
+*.luac
+
+# Nix
+result
+result-*
+.direnv/
